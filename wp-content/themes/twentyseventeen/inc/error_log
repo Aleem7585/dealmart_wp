@@ -1,0 +1,4 @@
+[06-Dec-2018 07:17:02 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home2/dealmart/public_html/wp-content/themes/twentyseventeen/inc/template-tags.php on line 196
+[06-Dec-2018 07:38:23 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home2/dealmart/public_html/wp-content/themes/twentyseventeen/inc/template-tags.php on line 196
+[06-Dec-2018 18:30:41 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home2/dealmart/public_html/wp-content/themes/twentyseventeen/inc/icon-functions.php on line 22
+[06-Dec-2018 19:50:54 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home2/dealmart/public_html/wp-content/themes/twentyseventeen/inc/icon-functions.php on line 22

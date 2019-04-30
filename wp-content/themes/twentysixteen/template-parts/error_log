@@ -1,0 +1,2 @@
+[05-Dec-2018 04:07:29 America/Chicago] PHP Fatal error:  Call to undefined function the_ID() in /home2/dealmart/public_html/wp-content/themes/twentysixteen/template-parts/content-single.php on line 11
+[05-Dec-2018 04:24:45 America/Chicago] PHP Fatal error:  Call to undefined function the_ID() in /home2/dealmart/public_html/wp-content/themes/twentysixteen/template-parts/content-single.php on line 11

@@ -1,0 +1,1 @@
+[19-Nov-2018 09:34:13 America/Chicago] PHP Fatal error:  Call to undefined function is_robots() in /home/dealmart/public_html/wp-includes/template-loader.php on line 28
